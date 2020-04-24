@@ -1,0 +1,19 @@
+{
+  "name": "test-apollo-cache-as-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronny-springer/test-apollo-cache-as-store.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronny-springer/test-apollo-cache-as-store/issues"
+  },
+  "homepage": "https://github.com/ronny-springer/test-apollo-cache-as-store#readme"
+}
